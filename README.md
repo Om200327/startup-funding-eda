@@ -1,48 +1,40 @@
-# Startup Funding EDA Analysis (India)
+# Startup Funding EDA (India)
 
-This project is an Exploratory Data Analysis (EDA) on the **Indian Startup Funding ecosystem**.  
-It explores **funding trends, top sectors, investor patterns, and year-wise growth**, providing actionable insights useful for **investors, analysts, and policymakers**.
-
----
-
-## 📌 Objective
-
-To analyze **funding patterns in Indian startups** — identify **which sectors, cities, investors, and years attracted the highest investment**, while understanding **emerging trends and growth opportunities**.
+## Project Overview  
+This project provides a detailed Exploratory Data Analysis (EDA) of funding activity in the Indian startup ecosystem (2014–2024). It reveals key patterns such as sectoral funding trends, investor behavior, and geographic investment distributions — providing actionable insights for analysts, investors, and startup stakeholders.
 
 ---
 
-## 📊 Dataset Details
-
-- **Domain**: Startup Funding in India  
-- **Data Type**: Real-world market dataset  
-- **Time Period**: Multiple years (e.g., 2015–2024)
-- **Key Columns**: `Startup Name`, `Industry/Sector`, `City`, `Investment Amount`, `Investors`, `Year`
+## Dataset  
+- **Source:** Indian startup funding data covering multiple years  
+- **Prepared & cleaned:** The dataset has been cleaned for analysis and is ready for use
 
 ---
 
-## 🛠 Tech Stack
-
-- **Python**
-- **Pandas** (Data Cleaning & Preparation)
-- **NumPy**
-- **Matplotlib / Seaborn** (Data Visualization)
-- **Jupyter Notebook**
+## Project Resources  
+- 📄 **Full Project Report (PDF):** [View Report](docs/Project_Report.pdf)  
+- 📂 **Download Cleaned Dataset:** [Cleaned Data (CSV)](data/cleaned/cleaned_startup_funding.csv)
 
 ---
 
-## 🔍 Key Analysis & Insights
-
-✅ **Year-wise funding growth trend** — detecting investment booms & slowdowns  
-✅ **Top funded industries** — sectors like **FinTech, E-Commerce, EdTech** etc.  
-✅ **Most active investor analysis** — repeated investor patterns  
-✅ **City-wise startup dominance** — Bengaluru, Delhi NCR, Mumbai, etc.  
-✅ **Unicorn/High-ticket funding patterns**  
+## Key Objectives  
+- Identify the **top sectors** in terms of funding received  
+- Analyze **year-wise growth trends** in startup investments  
+- Understand the behaviour of **leading investors** and major deals  
+- Examine the **regional spread** of startup funding across India
 
 ---
 
-## 🚀 How to Run this Project
+## Technologies Used  
+- **Python** – Pandas, NumPy (data wrangling)  
+- **Matplotlib & Seaborn** – Visualisations for trend analysis  
+- **Jupyter Notebook** – Secure and interactive project presentation  
+- **Git & GitHub** – Version control and project hosting
 
-```bash
+---
+
+## How to Run  
+
 # 1. Clone the repository
 git clone https://github.com/Om200327/startup-funding-eda
 
